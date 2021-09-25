@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon-Split into Unique Primes", "Amazon-Split into Unique Primes\Amazon-Split into Unique Primes.csproj", "{2B786628-677F-43BD-9995-460D5DC116CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B786628-677F-43BD-9995-460D5DC116CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B786628-677F-43BD-9995-460D5DC116CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B786628-677F-43BD-9995-460D5DC116CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B786628-677F-43BD-9995-460D5DC116CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F116572-BAEF-4376-B199-4EE805C52E9D}
+	EndGlobalSection
+EndGlobal
